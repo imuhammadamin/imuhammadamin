@@ -2,16 +2,13 @@
     
 <h1 align="left">Hi 👋🏽, I'm Mukhammadamin</h1>
 
-![Profile views](https://gpvc.arturio.dev/gabrlcj)
-
 <h3 align="left">I have a passion for programming and tecnology! 🚀</h3>
 
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Front-end development with React.js and Typescript, trying to get my first experience as a developer.</b></p>
+        <p>• 📚 I’m currently learning: <b>Back-end development with .NET and ASP.NET, trying to get my first experience as a developer.</b></p>
         <p>• ℹ️ Hobbies: <b>Games 🎮 | Reading 📖 | Exercise 🏃 | Football ⚽️</b></p>
-        <p>• 💬 Ask me about: <b>Anything, honestly, I love knowledge and learning new things</b></p>
-        <p>• 📫 How to reach me: <b>imuhammadaminno1@gmail.com</b></p>
+        <p>• 📫 How to reach me: <b>imukhammadamin27@gmail.com</b></p>
 </div><br>
 
 <div align="center">
@@ -40,7 +37,7 @@ ___
 <div>
   <h3>📱 Social Medias:</h3><br>
     <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a>
-    <a href="#" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+    <a href="#" target="imukhammadamin27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
     <a href="https://t.me/iMuhammadamin"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
     <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a>
 </div>
