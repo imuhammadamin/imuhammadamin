@@ -7,7 +7,6 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I’m currently learning: <b>Back-end development with .NET and ASP.NET, trying to get my first experience as a developer.</b></p>
-        
         <p>• 📫 How to reach me: <b>imukhammadamin27@gmail.com</b></p>
 </div><br>
 
