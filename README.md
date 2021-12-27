@@ -7,7 +7,7 @@
 <div align="left">
     <h3>👨🏽‍💻 About me:</h3>
         <p>• 📚 I’m currently learning: <b>Back-end development with .NET and ASP.NET, trying to get my first experience as a developer.</b></p>
-        <p>• ℹ️ Hobbies: <b>Games 🎮 | Reading 📖 | Exercise 🏃 | Football ⚽️</b></p>
+        
         <p>• 📫 How to reach me: <b>imukhammadamin27@gmail.com</b></p>
 </div><br>
 
@@ -45,4 +45,4 @@ ___
 
 Credit: [imuhammadamin](https://github.com/imuhammadamin)
 
-Last Edited on: 24/12/2021
+Last Edited on: 27/12/2021
