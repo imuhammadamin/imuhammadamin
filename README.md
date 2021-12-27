@@ -1,12 +1,10 @@
-<img align="right" src="https://raw.githubusercontent.com/gabrlcj/gabrlcj/2aa161dfb942e25ec84396721837dfccc98e08f2/Illustration.svg" alt="Illustration" title="Illustration Storyset" width=450/>
+Storyset" width=450/>
     
 <h1 align="left">Hi 👋🏽, I'm Mukhammadamin</h1>
 
 <h3 align="left">I have a passion for programming and technology! 🚀</h3>
 
 <div align="left">
-    <h3>👨🏽‍💻 About me:</h3>
-        <p>• 📚 I’m currently learning: <b>Back-end development with .NET and ASP.NET, trying to get my first experience as a developer.</b></p>
         <p>• 📫 How to reach me: <b>imukhammadamin27@gmail.com</b></p>
 </div><br>
 
@@ -27,7 +25,6 @@
     <br><br>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
-    <a href="https://"><img src="http://ForTheBadge.com/images/badges/built-with-science.svg" alt="Built-with-Science"></a>
 </div>
 
 ___
@@ -42,6 +39,6 @@ ___
 
 ------
 
-Credit: [imuhammadamin](https://github.com/imuhammadamin)
+Credit: [Mukhammadamin](https://github.com/imuhammadamin)
 
 Last Edited on: 27/12/2021
