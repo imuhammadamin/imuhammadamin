@@ -34,6 +34,6 @@ ___
 
 ------
 
-Credit: [Mukhammadamin](https://github.com/imuhammadamin)
+Credit: [Muhammad Amin](https://github.com/imuhammadamin)
 
 Last Edited on: 27/12/2021
