@@ -1,39 +1,14 @@
-<h1 align="left">Hi 👋🏽, I'm Muhammad Amin</h1>
+<h1 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+   I'm <a href="https://iMuhammadAmin.t.me/">Muhammad Amin</a>
+</h1>
 
-<h3 align="left">I have a passion for programming and technology! 🚀</h3>
+- I’m Python developer, Apologist of Web & Mobile techs. If you know russian, check my personal site-blog: https://muhammadamin.uz.
+- How to reach me: https://iMuhammadAmin.t.me  **or** imukhammadamin27@gmail.com
 
-<div align="left">
-        <p>• 📫 How to reach me: <b>imukhammadamin27@gmail.com</b></p>
-</div><br>
+<h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
 
-<div align="center">
-    <img height="155em" src="https://github-readme-stats.vercel.app/api?username=imuhammadamin&show_icons=true&theme=slateorange&title_color=f34213&text_color=0c0c0c&icon_color=0c0c0c&locale=en&hide_border=true&bg_color=bbb8b2" alt="imuhammadamin" />
-</div>
-    
----
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=imuhammadamin&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="Karych" align = "center"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=imuhammadamin&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="Karych" align = "center"/></p>
 
-<div>
-    <a href="https://"><img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="CSharp"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt="dotNet"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
-    <a href="https://"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSql"> </a>
-    <br><br>
-<!--     <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GIT&color=%23F05032&style=for-the-badge&logo=git&logoColor=whitesmoke" alt="GIT"></a>
-    <a href="https://"><img src="https://img.shields.io/static/v1?label=&message=GITHUB&color=%23181717&style=for-the-badge&logo=github&logoColor=whitesmoke" alt="GITHUB"></a>
-</div> -->
-
-___
-
-<div>
-  <h3>📱 Social Medias:</h3><br>
-<!--     <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Linkedin&color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=whitesmoke" alt="Linkedin"></a> -->
-<!--     <a href="imukhammadamin27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a> -->
-    <a href="https://t.me/MuhammadAminAkbarov"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<!--     <a href="#" target="_blank"><img src="https://img.shields.io/static/v1?label=&message=Instagram&color=lightpink&style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"></a> -->
-</div>
-
-------
-
-Credit: [Muhammad Amin](https://github.com/imuhammadamin)
-
-Last Edited on: 27/12/2021
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=imuhammadamin&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="Karych" /></p>
