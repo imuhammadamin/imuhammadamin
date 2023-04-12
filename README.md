@@ -3,7 +3,7 @@
    I'm <a href="https://iMuhammadAmin.t.me/">Muhammad Amin</a>
 </h1>
 
-- I’m Python developer, Apologist of Web & Mobile techs. If you know russian, check my personal site-blog: https://muhammadamin.uz.
+- I’m .NET developer, Apologist of Web & Desktop techs. Check my personal site-blog: https://muhammadamin.uz.
 - How to reach me: https://iMuhammadAmin.t.me  **or** imukhammadamin27@gmail.com
 
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
