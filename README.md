@@ -3,7 +3,7 @@
    I'm <a href="https://iMuhammadAmin.t.me/">Muhammad Amin</a>
 </h1>
 
-- I’m .NET developer, Apologist of Web & Desktop techs. Check my personal site-blog: https://muhammadamin.uz.
+- I’m .NET developer, Apologist of Web & Desktop techs.
 - How to reach me: https://iMuhammadAmin.t.me  **or** imukhammadamin27@gmail.com
 
 <h2 align=center>&nbsp;⚛️ Github Info ⚛️</h2>
